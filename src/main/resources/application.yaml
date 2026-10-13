@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: shoppingWithJwt
+  datasource.driver-class-name: com.mysql.cj.jdbc.Driver
+  datasource.username: root
+  datasource.url: jdbc:mysql://localhost:3306/dev?useUnicode=true&characterEncoding=UTF-8&allowPublicKeyRetrieval=true&useSSL=false
+  datasource.password: root
