@@ -1,2 +1,2 @@
 # SpringSecurity
-This Repository Contains Basic Login Authentication And JWT Concept  
+This Repository Contains Spring Security JWT Concept  
